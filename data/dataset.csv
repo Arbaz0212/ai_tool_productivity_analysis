@@ -1,0 +1,11 @@
+task,date,time_without_ai,time_with_ai,ai_usage,task_complexity,errors_without_ai,errors_with_ai,ai_tool
+Development,2024-05-01,5,3,High,High,5,2,ChatGPT
+Code Review,2024-05-02,3,2,Medium,Medium,3,1,Copilot
+Testing,2024-05-03,4,2.5,Medium,High,4,2,ChatGPT
+Documentation,2024-05-04,2,1,Low,Low,2,1,Notion AI
+Debugging,2024-05-05,6,3.5,High,High,6,2,Copilot
+Research,2024-05-06,3,2,Low,Medium,2,1,Perplexity
+Development,2024-05-07,5.5,3.2,High,High,5,2,ChatGPT
+Testing,2024-05-08,4.2,2.6,Medium,High,4,2,Copilot
+Documentation,2024-05-09,2.5,1.2,Low,Low,2,1,Notion AI
+Debugging,2024-05-10,6.2,3.8,High,High,6,2,ChatGPT
